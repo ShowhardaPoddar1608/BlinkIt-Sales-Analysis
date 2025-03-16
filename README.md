@@ -1,4 +1,4 @@
-#BlinkIt Sales Analysis
+# BlinkIt Sales Analysis
 
 ## Overview
 This project analyzes Blinkit's sales data to uncover key insights about customer purchasing behavior, product performance, and sales trends. Using Python, Pandas, Matplotlib, and Seaborn, we perform exploratory data analysis (EDA) to understand trends in sales, product categories, payment methods, and delivery performance.
